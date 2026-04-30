@@ -25,3 +25,7 @@ Schaum's Precalculus → Calculus → Blitzstein Probability
 
 ## Goal  
 Quant Researcher at Two Sigma · Citadel · Jane Street
+
+---
+
+for collaboration email: filippo.todoroff@gmail.com
