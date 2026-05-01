@@ -24,7 +24,7 @@ Schaum's Precalculus → Calculus → Blitzstein Probability
 ---
 
 ## Goal  
-Quant Researcher at Two Sigma · Citadel · Jane Street
+Quant Researcher / Quant Trader at Two Sigma · Citadel · Jane Street
 
 ---
 
