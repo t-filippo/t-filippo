@@ -7,7 +7,7 @@ Building toward Quant Research / Quant Trading — targeting MIT / ETH Zürich
 ---
 
 ## What I'm building
-...  
+Financial Sentiment & Risk Analytics Engine 
 
 ---
 
