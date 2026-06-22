@@ -1,7 +1,7 @@
 ##  Hi, i'm Filippo 
 
 
-16 y/o | Switzerland | Quant Finance, Math & CS  
+17 y/o | Switzerland | Quant Finance, Math & CS  
 Building toward Quant Research / Quant Trading — targeting MIT / ETH Zürich 
 
 ---
